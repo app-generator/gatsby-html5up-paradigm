@@ -2,6 +2,8 @@
 
 Open-source app built with GatsbyJS on top of HTML5Up Paradigm design. 
 
+> Originally coded by **[Anubhav Srivastava](https://github.com/anubhavsrivastava/)**.
+
 <br />
 
 ![GatsbyJS Paradigm - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/gatsby-html5up-paradigm-intro.gif?raw=true)
